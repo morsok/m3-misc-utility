@@ -1,6 +1,6 @@
 # m3
 
-CLI utilities for [Mylar3](https://github.com/mylar3/mylar3) comic management. Automates common maintenance tasks — refreshing series with placeholder dates, re-tagging recently downloaded issues — while respecting ComicVine's API rate limits across sessions.
+CLI utilities for [Mylar3](https://github.com/mylarcomics/mylar3) comic management. Automates common maintenance tasks — refreshing series with placeholder dates, re-tagging recently downloaded issues — while respecting ComicVine's API rate limits across sessions.
 
 ## Prerequisites
 
